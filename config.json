@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+        "websitename":"index",
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/index",
+      "prod_uri":"mysql://root:@localhost/index",
+      "fb_url":"https://facebook.com/index",
+      "tw_url":"https://twitter.com/index",
+      "gh_url": "https://github.com/index",
+      "blog_name": "index",
+      "tag_line": "Heaven for programmers",
+      "gmail-user":"mohankarthick133@gmail.com",
+      "gmail-password":"karthickMohan@123"
+    }
+  }
